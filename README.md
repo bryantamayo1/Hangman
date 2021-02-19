@@ -1,6 +1,6 @@
 # Hangman
 
-Created project in "Programa Especialización en Programación FullStack" of the Escuela de organización industrial
+Project created in "Programa Especialización en Programación FullStack" of the Escuela de organización industrial
 
 To run project you need to right click on ***index.html*** and click on ***Open with Live Server***:
 
